@@ -11,9 +11,7 @@ h1 {
 body {
   background: #eee; }
 
-.tree li:hover {
+.tree span:hover {
   font-weight: bold; }
-  .tree li:hover ul {
-    font-weight: normal; }
 
 /*# sourceMappingURL=main.css.map */
